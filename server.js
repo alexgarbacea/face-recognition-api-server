@@ -5,9 +5,9 @@ const knex = require('knex')({
     client: 'pg',
     connection: {
         host: '127.0.0.1',
-        user: 'postgres',
-        password: 'postgres',
-        database: 'facedetect'
+        user: 'x',
+        password: 'x',
+        database: 'x'
     }
 });
 const app = express();
